@@ -1,3 +1,5 @@
 Tomas Velasquez Eusse
 22 años
 En esta materia me gustaria aprender todas las bases necesarias para empezar mi camino como profesional en analisis de datos
+
+Modificar el mismo archivo pero desde diferentes ubicaciones puede generar problemas de compatibilidad al momento del orden y manejo de versiones
