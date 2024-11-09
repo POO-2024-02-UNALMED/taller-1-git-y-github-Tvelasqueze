@@ -1,1 +1,3 @@
-Ya que a la carpeta archivos le añadimos el la añadimos el .txt, si se podia hacer commit de estos cambios
+Tomas Velasquez Eusse
+22 años
+En esta materia me gustaria aprender todas las bases necesarias para empezar mi camino como profesional en analisis de datos
